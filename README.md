@@ -113,5 +113,5 @@ This project is open-source and free to use for educational and non-commercial p
 
 ## 🙋‍♂️ Author
 
-Ajit Karmoker  
+Sampad Karmaker  
 Feel free to connect via GitHub or LinkedIn!
