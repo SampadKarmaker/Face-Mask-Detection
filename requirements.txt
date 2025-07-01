@@ -1,0 +1,4 @@
+@echo off
+call C:\Users\Sampad\anaconda3\Scripts\activate.bat maskdet
+python C:\Users\Sampad\Projects\mask_detector.py
+pause
