@@ -1,4 +1,4 @@
-# 🛡️ Face Mask Detection with Real-Time Voice Alert
+# 🛡️ Face Mask Detection 
 
 ## 📌 Overview
 
@@ -10,7 +10,6 @@ This is a real-time face mask detection system built using computer vision and d
 
 - ✅ Real-time face detection using OpenCV’s DNN-based SSD model
 - 🧠 MobileNetV2-based deep learning model for mask classification
-- 🔊 Voice alerts via `pyttsx3` when no mask is detected
 - 🖼️ Bounding boxes with labels and confidence scores
 
 ---
