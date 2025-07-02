@@ -66,7 +66,7 @@ python train_mask_detector.py
 
 ---
 
-## 🎥 Real-Time Detection with Audio Alerts
+
 
 Run the main detection script:
 
@@ -78,7 +78,6 @@ python mask_detector_video.py
 - Detects faces in live video feed
 - Predicts mask status
 - Displays label + confidence
-- Speaks “Mask” or “No Mask” when status changes
 - Press `q` to quit
 
 ---
